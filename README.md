@@ -1,2 +1,4 @@
 My old email address (gl-liu13@mails.tsinghua.edu.cn) is no longer in use. Please use my new address (gl-liu13@tsinghua.org.cn) if you need to contact me.
 
+I have been invited to serve as a reviewer (and program committee member) for AISTATS 2026. AISTATS (International Conference on Artificial Intelligence and Statistics) is a leading conference in machine learning, artificial intelligence, and statistics, particularly well-regarded in North America and Europe. It is renowned for its integration of theory and practice, covering topics ranging from probabilistic models and Bayesian methods to deep learning and large-scale data analysis. The acceptance rate is approximately 30%. The deadline for abstract submissions is September 25, 2025. Submissions are welcome.
+
