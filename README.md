@@ -1,8 +1,13 @@
 My old email address (gl-liu13@mails.tsinghua.edu.cn) is no longer in use. Please use my new address (gl-liu13@tsinghua.org.cn) if you need to contact me. Please do not send me spam. Any spam I receive will be reported.
 
+05/03/2025:
+
+I have been nominated by the program chair committee of ICONIP 2025 to serve as Reviewer.
+ICONIP has long served as the premiere forum for research and development in neural information processing in the Asia-Pacific region and beyond. The conference spans a broad range of topics including theory and algorithms of machine learning and neural networks, computational neuroscience, and data-driven applications in domains such as healthcare, robotics, vision, language, security and neuromorphic computing. The 32nd International Conference on Neural Information Processing (ICONIP 2025) will be held 20–24 November 2025 at the Okinawa Institute of Science and Technology Graduate University (OIST) in Okinawa, Japan.
+
+08/22/2025:
+
 I have been invited to serve as a reviewer (and program committee member) for AISTATS 2026. AISTATS (International Conference on Artificial Intelligence and Statistics) is a leading conference in machine learning, artificial intelligence, and statistics, particularly well-regarded in North America and Europe. It is renowned for its integration of theory and practice, covering topics ranging from probabilistic models and Bayesian methods to deep learning and large-scale data analysis. The acceptance rate is approximately 30%. The deadline for abstract submissions is September 25, 2025. Submissions are welcome.
-
-
 
 9/23/2025:
 
