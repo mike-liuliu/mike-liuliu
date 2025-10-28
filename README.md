@@ -3,7 +3,7 @@ My old email address (gl-liu13@mails.tsinghua.edu.cn) is no longer in use. Pleas
 05/03/2025:
 
 I have been nominated by the program chair committee of ICONIP 2025 to serve as Reviewer.
-ICONIP has long served as the premiere forum for research and development in neural information processing in the Asia-Pacific region and beyond. The conference spans a broad range of topics including theory and algorithms of machine learning and neural networks, computational neuroscience, and data-driven applications in domains such as healthcare, robotics, vision, language, security and neuromorphic computing. The 32nd International Conference on Neural Information Processing (ICONIP 2025) will be held 20–24 November 2025 at the Okinawa Institute of Science and Technology Graduate University (OIST) in Okinawa, Japan.
+ICONIP has long served as the premiere forum for research and development in neural information processing in the Asia-Pacific region and beyond. The conference spans a broad range of topics including theory and algorithms of machine learning and neural networks, computational neuroscience, and data-driven applications in domains such as healthcare, robotics, vision, language, security and neuromorphic computing. The 32nd International Conference on Neural Information Processing (ICONIP 2025) will be held 20–24 November 2025 at the Okinawa Institute of Science and Technology (OIST) in Okinawa, Japan.
 
 08/22/2025:
 
