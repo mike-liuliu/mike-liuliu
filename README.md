@@ -12,3 +12,11 @@ I have been invited to serve as a reviewer (and program committee member) for AI
 9/23/2025:
 
 I received an invitation to review for ICLR 2026. Thank you to the program chairs. ICLR, short for the International Conference on Learning Representations, is one of the top academic conferences in the field of artificial intelligence, focusing particularly on deep learning, representation learning, and their applications. ICLR was founded in 2013 by Turing Award winners Yoshua Bengio and Yann LeCun. Along with NeurIPS and ICML, ICLR is considered one of the three top machine learning conferences. The abstract submission deadline has now passed, and the estimated submissions are 25k+. The results will likely be released after January 8, 2026. Good luck to everyone.
+
+
+-------------------------------------------------------------------------------------------------------------
+
+
+Please answer this question if you are a REAL expert in machine learning or deep learning:
+
+https://www.reddit.com/r/deeplearning/comments/1nl4pyy/is_this_claim_correct/
